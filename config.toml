@@ -1,0 +1,4 @@
+baseURL = "https://portfolioi.firebaseapp.com/"
+languageCode = "en-us"
+title = "Prashanth Ravi Shankar"
+theme = "hugo-util"

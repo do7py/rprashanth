@@ -1,0 +1,17 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "May 2015 - Present",
+			"company" : "R R Donnelley",
+			"description" : "Python Scripts to maintain disk space, process automations, Web scraping and Excel manipulation. Custom QlikView chart extensions using D3.JS. Implementing Google Analytics, Orchestrating data pipelining using Luigi Framework. Building text analytics application with Apache Solr. Exploratory Data Analysis using Python, SAS, QlikSense and QlikView. Developed GLMs for property insurance business."
+		},
+		{
+			"timeperiod" : "Jul 2013 - May 2015",
+			"company" : "Crayon Digital",
+			"description" : "Aesthetically pleasing android applications, Integrating social media APIs like Facebook, Twitter and Google's Maps and Parsing JSON/XML information for RESTful web services. "
+		}
+	]
+}
+
+

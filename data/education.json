@@ -1,0 +1,18 @@
+{
+	"title" : "Education",
+	"education" : [
+		{
+			"timeperiod" : "May 2018 - Present",
+			"company" : "Masters",
+			"description" : "Cyber Forensics and Information Security"
+		},
+		{
+			"timeperiod" : "Sep 2009 - May 2013",
+			"company" : "Bachelors",
+			"description" : "Computer Science and Engineering"
+		}
+		
+	]
+}
+
+

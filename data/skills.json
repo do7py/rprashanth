@@ -1,0 +1,14 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Python" : "90",
+		"SQL" : "70",
+		"Base SAS" : "65",
+		"HTML, CSS, JS" : "80",
+		"QlikView/ Qlik Sense" : "75",
+		"Google Analytics, Google Cloud, BigQuery" : "69",
+		"Tableau" : "59",
+		"MongoDB" : "59",
+		"R Programming" : "50"
+	}
+}
